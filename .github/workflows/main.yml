@@ -3,8 +3,8 @@ name: Run bash --noTest
 on:
   workflow_dispatch:
   schedule:
-    # 01:00 & 13:00 WIB (UTC+7)
-    - cron: '0 0,12 * * *'
+    # Every 6 hours
+    - cron: '0 */6 * * *'
 
 permissions:
   contents: read
