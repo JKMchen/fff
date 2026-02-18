@@ -20,7 +20,7 @@ api_id = 32189892
 api_hash = 'ed094448a27b1c7c04f46bc30d3de1ae'
 session_name = 'poka1337_telethon'
 
-CHANNELS = ['@ccinfoz', '@kingscraperr']
+CHANNELS = ['@nomii1000', '@kingscraperr']
 
 CHECKER_BOT1 = '@pokacc_bot'      # kirim sebagai FILE 10 CC
 CHECKER_BOT2 = '@pokahotmail_bot' # kirim /mpf + CC di baris pertama, sisanya baris baru
